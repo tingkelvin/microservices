@@ -2,9 +2,9 @@ server.port: 7003
 server.error.include-message: always
 
 logging:
-    level:
-        root: INFO
-        se.magnus: DEBUG
+  level:
+    root: INFO
+    ting.kelvin: DEBUG
 
 ---
 spring.config.activate.on-profile: docker
